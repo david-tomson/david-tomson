@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @david-tomson .
+- 👀 I’m interested in security, mobile apps, cli apps.
+- 🌱 I’m currently learning golang, python, c++, typescript.
